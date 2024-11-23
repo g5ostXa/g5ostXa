@@ -7,7 +7,8 @@
 <div align="left">
 
 ## My Repositories 👻
-- g5ostXa's github page / website: [`g5ostXa/g5ostXa`](https://github.com/g5ostXa/g5ostXa)
+- g5ostXa's github page: [`g5ostXa/g5ostXa`](https://github.com/g5ostXa/g5ostXa)
+- g5ostXa's website: [`g5ostXa/g5ost4rchives`](https://github.com/g5ostXa/g5ost4rchives)
 - Just another wallpaper repository: [`g5ostXa/wallpaper`](https://github.com/g5ostXa/wallpaper)
 - Kernel params for linux systems: [`g5ostXa/sysctl`](https://github.com/g5ostXa/sysctl)
 - A place to store all kinds of random bash/shell scripts: [`g5ostXa/b4shL4nd`](https://github.com/g5ostXa/b4shL4nd)
