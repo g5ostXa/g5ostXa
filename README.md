@@ -7,6 +7,7 @@
 <div align="left">
 
 ## My Repositories 👻
+- My personal hyprland/archlinux install: [`g5ostXa/hyprarch2`](https://github.com/g5ostXa/hyprarch2)
 - g5ostXa's README: [`g5ostXa/g5ostXa`](https://github.com/g5ostXa/g5ostXa)
 - My gh-pages website: [`g5ostXa/g5ost4rchives`](https://github.com/g5ostXa/g5ost4rchives)
 - Just another wallpaper repository: [`g5ostXa/wallpaper`](https://github.com/g5ostXa/wallpaper)
