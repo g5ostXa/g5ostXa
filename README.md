@@ -15,8 +15,4 @@
 - A place to store all kinds of random bash/shell scripts: [`g5ostXa/b4shL4nd`](https://github.com/g5ostXa/b4shL4nd)
 
 ## Github stats 🔥
-<img src="https://github-readme-stats.vercel.app/api?username=g5ostXa&show_icons=true&theme=tokyonight"/>
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=g5ostXa&theme=tokyonight"/>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g5ostXa&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=g5ostXa&theme=tokyonight"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g5ostXa&layout=compact&theme=tokyonight"/>
