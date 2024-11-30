@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Iosevka+Nerd+Font&weight=900&pause=1000&color=6791C9&background=0C0E0F00&center=true&vCenter=true&width=435&lines=Welcome to my github page !"/>
 </div>
 
-## 👻 My projects
+## 👻 My repositories
 - My personal Hyprland/Archlinux install: [`g5ostXa/hyprarch2`](https://github.com/g5ostXa/hyprarch2)
 - g5ostXa's readme: [`g5ostXa/g5ostXa`](https://github.com/g5ostXa/g5ostXa)
 - My gh-pages website: [`g5ostXa/g5ost4rchives`](https://github.com/g5ostXa/g5ost4rchives)
