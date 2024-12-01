@@ -12,7 +12,7 @@
 - My gh-pages website: [`g5ostXa/g5ost4rchives`](https://github.com/g5ostXa/g5ost4rchives)
 - Just another wallpaper repository: [`g5ostXa/wallpaper`](https://github.com/g5ostXa/wallpaper)
 - Kernel params for linux systems: [`g5ostXa/sysctl`](https://github.com/g5ostXa/sysctl)
-- A place to store all kinds of random bash/shell scripts: [`g5ostXa/b4shL4nd`](https://github.com/g5ostXa/b4shL4nd)
+- A graveyard for bash scripts / bash playground: [`g5ostXa/b4shL4nd`](https://github.com/g5ostXa/b4shL4nd)
 
 ## 🔥 Github stats
 <img src="https://github-readme-stats.vercel.app/api?username=g5ostXa&show_icons=true&theme=tokyonight"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=g5ostXa&theme=tokyonight"/> 
