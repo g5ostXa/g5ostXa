@@ -14,5 +14,3 @@
 - Kernel params for linux systems: [`g5ostXa/sysctl`](https://github.com/g5ostXa/sysctl)
 - A graveyard for bash scripts / bash playground: [`g5ostXa/b4shL4nd`](https://github.com/g5ostXa/b4shL4nd)
 
-## 🔥 Github stats
-<img src="https://github-readme-stats.vercel.app/api?username=g5ostXa&show_icons=true&theme=tokyonight"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=g5ostXa&theme=tokyonight"/> 
