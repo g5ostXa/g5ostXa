@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/g5ostXa/g5ostXa/blob/main/assets/g5ostxa.png" width="300" height="300"/>
+    <img src="/assets/g5ostxa.png" width="300" height="300"/>
 </div>
 
 <div align="center">
