@@ -11,7 +11,7 @@
 - g5ostXa's readme: [`g5ostXa/g5ostXa`](https://github.com/g5ostXa/g5ostXa)
 - My gh-pages website: [`g5ostXa/g5ost4rchives`](https://github.com/g5ostXa/g5ost4rchives)
 - Just another wallpaper repository: [`g5ostXa/wallpaper`](https://github.com/g5ostXa/wallpaper)
-- Kernel params for linux systems: [`g5ostXa/sysctl`](https://github.com/g5ostXa/sysctl)
+- Arch linux basic security configuration: [`g5ostXa/archSec`](https://github.com/g5ostXa/archSec)
 - A graveyard for bash scripts / bash playground: [`g5ostXa/b4shL4nd`](https://github.com/g5ostXa/b4shL4nd)
 
 ## 🔥 Github stats
