@@ -8,6 +8,7 @@
 - Wallpapers (JPG): [`g5ostXa/wallpaper`](https://github.com/g5ostXa/wallpaper)
 - Basic arch linux security: [`g5ostXa/archSec`](https://github.com/g5ostXa/archSec)
 - A graveyard for bash scripts / bash playground: [`g5ostXa/b4shL4nd`](https://github.com/g5ostXa/b4shL4nd)
+- Website: [`g5ostXa/g5ost4rchives`](https://github.com/g5ostXa/g5ost4rchives)
 
 ## 🔥 Github stats
 <img src="https://github-readme-stats.vercel.app/api?username=g5ostXa&show_icons=true&theme=tokyonight"/>
