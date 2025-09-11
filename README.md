@@ -9,7 +9,7 @@
 - Basic arch linux security: [`g5ostXa/archSec`](https://github.com/g5ostXa/archSec)
 - A graveyard for bash scripts / bash playground: [`g5ostXa/b4shL4nd`](https://github.com/g5ostXa/b4shL4nd)
 - Website: [`g5ostXa/g5ost4rchives`](https://github.com/g5ostXa/g5ost4rchives)
-- Archbase install cheat sheets: [`g5ostXa/archbase`](https://github.com/g5ostXa/archbase)
+- Archbase wiki: [`g5ostXa/archbase`](https://github.com/g5ostXa/archbase)
 
 ## 🔥 Github stats
 <img src="https://github-readme-stats.vercel.app/api?username=g5ostXa&show_icons=true&theme=tokyonight"/>
