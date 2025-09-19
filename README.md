@@ -11,5 +11,5 @@
 - Website: [`g5ostXa/g5ost4rchives`](https://github.com/g5ostXa/g5ost4rchives)
 - Archbase wiki: [`g5ostXa/archbase`](https://github.com/g5ostXa/archbase)
 
-## 🔥 Github stats
+## :octocat: Github stats
 <img src="https://github-readme-stats.vercel.app/api?username=g5ostXa&show_icons=true&theme=tokyonight"/>
