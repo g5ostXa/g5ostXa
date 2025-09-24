@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-  <img src="/assets/ghost_prototype-3.png" width="100" height="100"/>
+  <img src="/assets/ghost_prototype-3.png" width="150" height="150"/>
 </div>
 
 <br>
@@ -14,5 +14,5 @@
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=g5ostXa&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=g5ostXa&show_icons=true&theme=tokyonight" width="600" />
 </div>
