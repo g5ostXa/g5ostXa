@@ -14,5 +14,5 @@
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=g5ostXa&show_icons=true&theme=tokyonight" width="600" />
+<img src="https://github-readme-stats.vercel.app/api?username=g5ostXa&show_icons=true&theme=tokyonight" width="560" />
 </div>
