@@ -3,9 +3,9 @@
 <br>
 
 <div align="center">
-  <img src="/assets/ghost_prototype-2.png" width="150" height="150"/>
-  <img src="/assets/ghost_prototype-3.png" width="150" height="150"/>
-  <img src="/assets/ghost_prototype-1.png" width="150" height="150"/>
+  <img src="/assets/ghost_prototype-2.png" width="100" height="100"/>
+  <img src="/assets/ghost_prototype-3.png" width="100" height="100"/>
+  <img src="/assets/ghost_prototype-1.png" width="100" height="100"/>
 </div>
 <br>
 
