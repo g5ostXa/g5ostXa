@@ -24,7 +24,7 @@ $${\color{cyan}=================================================================
                MMMMMMMMMMMMMMMMMMM
                MMMMMMMMMMMMMMMMMMM      _____________________________
               MMMMMMMMMMMMMMMMMMMMM    |                             |
-             MMMMMMMMMMMMMMMMMMMMMMM   | Welcome to my Github page ! |
+             MMMMMMMMMMMMMMMMMMMMMMM   |      g5ostX2@proton.me      |
             MMMMMMMMMMMMMMMMMMMMMMMM   |_   _________________________|
             MMMM::- -:::::::- -::MMMM    |/
              MM~:~ 00~:::::~ 00~:~MM
