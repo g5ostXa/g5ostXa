@@ -5,9 +5,8 @@
 Hello, world! Welcome to my Github page.
 
 **About me**: \
-My two main passions in life are making music and coding. I started coding in 2020, which is the same year I started using Arch (BTW). \
-Right now, my main focus is Golang, but I might try rust eventually.
-I'm definitely a Bash lover as well. 
+My two main passions in life are making music and coding. I started coding in 2020, which was the same year I started using Arch, btw. \
+Right now, my main focus is learing Go, but I might try rust or something else eventually. 
 
 If you wish to know more about me, don't hesitate to send me an email.
 
