@@ -15,7 +15,7 @@ If you wish to know more about me, don't hesitate to send me an email.
 * [`g5ostXa/hyprarch2`](https://github.com/g5ostXa/hyprarch2): My dotfiles for hyprland
 * [`g5ostXa/gHOSTland`](https://github.com/g5ostXa/gHOSTland): My gh-pages website
 * [`g5ostXa/archbase`](https://github.com/g5ostXa/archbase): Arch Linux manual install guide
-* [`g5ostXa/cvndyfetch`](https://github.com/g5ostXa/cvndyfetch):
+* [`g5ostXa/cvndyfetch`](https://github.com/g5ostXa/cvndyfetch): A very simple, yet elegant greeter for your terminal 
 
 $${\color{cyan}=========================================================================================================}$$
 
