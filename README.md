@@ -17,7 +17,7 @@ If you wish to know more about me, don't hesitate to send me an email.
 * [`g5ostXa/archbase`](https://github.com/g5ostXa/archbase): Arch Linux manual install guide
 * [`g5ostXa/cvndyfetch`](https://github.com/g5ostXa/cvndyfetch):
 
-$${\color{cyan}  =============================================================================================================}$$
+$${\color{cyan}=========================================================================================================}$$
 
 ```ruby
                MMM.           .MMM
