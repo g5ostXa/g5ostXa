@@ -2,13 +2,14 @@
     <img src="assets/g5ostxa.png" width="358" height="350">
 </div>
 
+#### `Bonjour` 👻
 I'm not the best at describing myself so let's keep it short and simple.
 <br>
 
-#### `Projects I'm working on:`
-* [`g5ostXa/hyprarch2`](https://github.com/g5ostXa/hyprarch2): My dotfiles for hyprland
-* [`g5ostXa/gHOSTland`](https://github.com/g5ostXa/gHOSTland): My gh-pages website
-* [`g5ostXa/archbase`](https://github.com/g5ostXa/archbase): Arch Linux manual install guide
+#### `What I'm working on:`
+* [`g5ostXa/hyprarch2`](https://github.com/g5ostXa/hyprarch2):   My dotfiles for hyprland
+* [`g5ostXa/gHOSTland`](https://github.com/g5ostXa/gHOSTland):   My gh-pages website
+* [`g5ostXa/archbase`](https://github.com/g5ostXa/archbase):     Arch Linux manual install guide
 * [`g5ostXa/cvndyfetch`](https://github.com/g5ostXa/cvndyfetch): A very simple, yet elegant greeter for your terminal 
 
 $${\color{cyan}=========================================================================================================}$$
