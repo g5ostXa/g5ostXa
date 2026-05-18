@@ -2,7 +2,7 @@
     <img src="assets/g5ostxa.png" width="358" height="350">
 </div>
 
-#### `Bonjour 👻`
+### `Bonjour 👻`
 I'm not the best at describing myself so let's keep it short and simple.
 <br>
 
