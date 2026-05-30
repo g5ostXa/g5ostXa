@@ -2,6 +2,14 @@
     <img src="assets/g5ostxa.png" width="358" height="350">
 </div>
 
+<div align="center">
+    <a href="https://raw.githubusercontent.com/g5ostXa/g5ostXa/refs/heads/main/.g5ostXa_publickey.asc"
+                title="g5ostXa's publickey"
+                tyle="text-decoration: none; color: #7700f7; text-shadow: 0 0 0 #09fa8a;"></a>
+</div>
+
+<br>
+
 ### `Bonjour 👻`
 I'm not the best at describing myself so let's keep it short and simple.
 <br>
