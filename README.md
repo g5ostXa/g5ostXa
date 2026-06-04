@@ -16,6 +16,7 @@ I'm not the best at describing myself so let's keep it short and simple.
 
 #### `What I'm working on:`
 * [`g5ostXa/hyprarch2`](https://github.com/g5ostXa/hyprarch2):   My dotfiles for hyprland
+* [`g5ostXa/archypr`](https://github.com/g5ostXa/archypr):       New dotfiles installer (under construction)
 * [`g5ostXa/archbase`](https://github.com/g5ostXa/archbase):     Arch Linux manual install guide
 * [`g5ostXa/cvndyfetch`](https://github.com/g5ostXa/cvndyfetch): A very simple, yet elegant greeter for your terminal 
 
