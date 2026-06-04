@@ -10,8 +10,15 @@
 
 <br>
 
-### `Bonjour 👻`
-I'm not the best at describing myself so let's keep it short and simple.
+### 👻  About me
+
+I'm just a lonely ghost buried under the wires. \
+Spending too much time online, talking on MSN. 
+
+Daily driver Windows vista but it does nice 
+washing machine sounds. \
+Email me to learn more!
+
 <br>
 
 #### `What I'm working on:`
