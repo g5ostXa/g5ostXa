@@ -20,6 +20,7 @@ Email me to learn more!
 * [`g5ostXa/hyprarch2`](https://github.com/g5ostXa/hyprarch2):     A pre-configured hyprland installer for Archlinux.
 * [`g5ostXa/archypr`](https://github.com/g5ostXa/archypr):         Hyprarch2 re-written in Go (under construction).
 * [`g5ostXa/cvndyfetch`](https://github.com/g5ostXa/cvndyfetch):   A very simple, yet elegant greeter for your terminal.
+* [`g5ostXa/mnstrsay`](https://github.com/g5ostXa/mnstrsay):       Just another cowsay-like program.
 * [`g5ostXa/archbase 󰣇`](https://github.com/g5ostXa/archbase):     Arch Linux manual install guide.
 
 $${\color{cyan}=========================================================================================================}$$
