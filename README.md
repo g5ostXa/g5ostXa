@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/g5ostxa.png" width="358" height="350">
+    <img src="assets/colorghost.png" width="300" height="300">
 </div>
 
 <div align="center">
