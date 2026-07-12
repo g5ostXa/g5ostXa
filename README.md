@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/colorghost.png" width="200" height="200">
+    <img src="assets/pxlghost.png" width="200" height="200">
 </div>
 
 <br>
