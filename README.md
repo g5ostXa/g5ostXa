@@ -4,20 +4,15 @@
 
 <br>
 
-<div align="center">
-    <a href="https://raw.githubusercontent.com/g5ostXa/g5ostXa/refs/heads/main/.g5ostXa_publickey.asc"
-                title="g5ostXa's publickey"
-                tyle="text-decoration: none; color: #7700f7; text-shadow: 0 0 0 #09fa8a;"></a>
-</div>
-
 <br>
 <br>
 
 ### 👻 About me
 I spend too much time online, talking on MSN. \
-I daily drive Windows Vista on my brand new Coleco Adam machine.
+I daily drive Windows Vista on my brand new Coleco Adam machine. 
 
-Email me to learn more!
+Email me to learn more! \
+You can find my public gpg key [`here`](https://raw.githubusercontent.com/g5ostXa/g5ostXa/refs/heads/main/.g5ostXa_publickey.asc)
 
 ### What I'm working on:
 * [`g5ostXa/hyprarch2 󰣇`](https://github.com/g5ostXa/hyprarch2) :     A pre-configured hyprland installer for Archlinux.
